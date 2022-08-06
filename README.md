@@ -1,5 +1,5 @@
-# Jessbot-2
-This is the GitHub repository for Jessica Bot 2.0, for Discord, coded in C# using Discord.NET.
+# jessbod-2 :--DDd
+dis is de gidhub rebosidory for jessiga bod 2.0, for Disgord, goded in Soylang# using Discuck.NET :DDDDD
 
-## Disclaimer
-I have taken this code open source so I can use all of GitHub's features with this bot. Please don't abuse this, I do NOT wish to have forks or copies of my bot out there.
+## disglaimer :DDD
+i have dagen dis gode oben source :DD so I gan use all of gidhub's feadures with dis bod.  :DDD  blease don'd ab00ze dis, I do NOd wish do have forgs or gobies of my bod oud dere :-DDDddDD
